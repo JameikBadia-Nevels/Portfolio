@@ -1,0 +1,37 @@
+#headshot{
+    margin-left: 35%;
+    border-style: groove;
+    border-color:#2D080A;
+    border-radius: 100px;
+}
+#start{
+    display: flex;
+    justify-content: center;
+}
+#about{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#projects{
+    display: flex;
+}
+.pro{
+    
+    margin-left: 15%;
+    border-style: dotted;
+    border-color:#2D080A;
+    max-width: min-content;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    color:#130303 ;
+}
+#contact{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color:#ECE2D0;
+}
